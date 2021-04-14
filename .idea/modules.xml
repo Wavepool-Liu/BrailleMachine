@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../ALL project/ALL project/AGV2021/.idea/AGV2021.iml" filepath="$PROJECT_DIR$/../../ALL project/ALL project/AGV2021/.idea/AGV2021.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Braille 2020/.idea/Braille 2020.iml" filepath="$PROJECT_DIR$/../../Braille 2020/.idea/Braille 2020.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/RpiProgram.iml" filepath="$PROJECT_DIR$/.idea/RpiProgram.iml" />
+    </modules>
+  </component>
+</project>
